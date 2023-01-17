@@ -12,4 +12,4 @@
 IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![My_coding!](assets/coding.gif | width=100)
+<img src="assets/coding.gif" alt="My coding image" width="100%" max-height="400px">
