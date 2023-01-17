@@ -1,4 +1,4 @@
-![My_Career_image](engbg.gif)
+![My_Career_image!](assets/engbg.gif)
 - 👋 Hi, I’m @IZZYLOVE
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 I’m interested in software engineering...
@@ -12,3 +12,4 @@
 IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![My_coding!](assets/coding_gif.gif)
