@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m @IZZYLOVE
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 I’m interested in software engineering...
