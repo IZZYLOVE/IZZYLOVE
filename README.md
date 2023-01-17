@@ -1,3 +1,4 @@
+![My Career image](assets/eng bg.gif)
 - 👋 Hi, I’m @IZZYLOVE
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 I’m interested in software engineering...
