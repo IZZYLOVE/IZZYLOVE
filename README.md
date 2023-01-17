@@ -1,4 +1,3 @@
-https://github.com/IZZYLOVE/IZZYLOVE/blob/69873e259c8f149b161ece423c6e86bd4a007570/assets/eng%20bg.gif
 - 👋 Hi, I’m @IZZYLOVE
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 I’m interested in software engineering...
