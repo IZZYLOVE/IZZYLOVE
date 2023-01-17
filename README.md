@@ -1,5 +1,5 @@
 <img src="assets/header.gif" alt="My coding image" width="100%" max-height="400px">
--->
+-
 - 👋 Hi, I’m @IZZYLOVE
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 I’m interested in software engineering...
@@ -8,6 +8,7 @@
 - 🌱 i am also running a software engineering course with ALX
 - 💞️ I’m looking to collaborate on any web development project on php or python (Django)...
 - 📫 reach me +2348068578748 (izzylovu@gmail.com)...
+- 
 
 <!---
 IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
