@@ -1,4 +1,4 @@
-<img src="assets/header.gif" alt="My coding image" width="100%" max-height="400px">
+<img src="assets/header.gif" alt="My coding image" width="100" max-height="400px">
 -
 - 👋 Hi, I’m @IZZYLOVE
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
