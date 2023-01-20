@@ -1,6 +1,7 @@
 <img src="assets/header.gif" alt="My coding image" width="100%" max-height="400px">
 
-- 👋 Hi, I’m KINGDOM ADELE
+# 👋 Hi, I’m KINGDOM ADELE
+
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 I’m interested in software engineering...
 - 🌱 I’m currently learning fullstack web development at MRsoft, using django ...
