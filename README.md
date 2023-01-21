@@ -7,8 +7,11 @@
 - 🌱 I’m currently learning fullstack web development at MRsoft, using django ...
 - 🏘 i have done full stack web development, Admacs computers, using php
 - 🌱 i am also running a software engineering course with ALX
-- 💞️ I’m looking to collaborate on any web development project on php or python (Django)...
 - 📫 reach me **+2348068578748 (izzylovu@gmail.com)...**
+
+<h3 align = 'center'> 
+  💞️ I’m looking to collaborate on any web development project involving HTML, CSS, JavaScript, Jqurry, PHP, MySQL, C, Python and loading...
+  </h3>
 
 <!---
 IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
