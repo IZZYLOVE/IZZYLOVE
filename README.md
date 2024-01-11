@@ -4,13 +4,14 @@
 
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 Now a professional software engineer.
-- 🌱 I’m currently majoring in fullstack web development.
+- 🌱 I’m currently majoring in fullstack web development, database management and project management.
 - 🏘 i am certified by ALX, META, GOOGLE, MRsoft, ADMAS, ...
 - 🌱 i am also a bank of experience in web development, with over five years experience.
 - 📫 reach me **+2348068578748 (izzylovu@gmail.com)...**
 
 <h3 align = 'center'> 
-  💞️ I’m looking to collaborate on any (web) development project involving HTML, CSS, JavaScript(Node), Jquery, PHP(Laravel), MySQL, C, Python(Django) and loading...
+  💞️ I’m looking to collaborate on any (web) development project involving HTML, CSS, JavaScript(Node), Jquery, PHP(Laravel), MySQL, C, Python(Django) and loading..., 
+  or in areas relating to database management and/or project management
   </h3>
 
 <!---
