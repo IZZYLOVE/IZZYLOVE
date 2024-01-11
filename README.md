@@ -4,9 +4,9 @@
 
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
 - 👀 Now a professional software engineer.
-- 🌱 I’m currently majoring on fullstack web development.
+- 🌱 I’m currently majoring in fullstack web development.
 - 🏘 i am certified by ALX, META, GOOGLE, MRsoft, ADMAS, ...
-- 🌱 i am also a bank of experience in web development.
+- 🌱 i am also a bank of experience in web development, with over five years experience.
 - 📫 reach me **+2348068578748 (izzylovu@gmail.com)...**
 
 <h3 align = 'center'> 
