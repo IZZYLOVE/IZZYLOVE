@@ -3,14 +3,14 @@
 <h1 align = 'center'> 👋 Hi, I’m KINGDOM ADELE </h1>
 
 - 🏘  I am a gradguate of mechanical enginnering, RSU.
-- 👀 I’m interested in software engineering...
-- 🌱 I’m currently learning fullstack web development at MRsoft, using django ...
-- 🏘 i have done full stack web development, Admacs computers, using php
-- 🌱 i am also running a software engineering course with ALX
+- 👀 Now a professional software engineer.
+- 🌱 I’m currently majoring on fullstack web development.
+- 🏘 i am certified by ALX, META, GOOGLE, MRsoft, ADMAS, ...
+- 🌱 i am also a bank of experience in web development.
 - 📫 reach me **+2348068578748 (izzylovu@gmail.com)...**
 
 <h3 align = 'center'> 
-  💞️ I’m looking to collaborate on any (web) development project involving HTML, CSS, JavaScript, Jquery, PHP, MySQL, C, Python and loading...
+  💞️ I’m looking to collaborate on any (web) development project involving HTML, CSS, JavaScript(Node), Jquery, PHP(Laravel), MySQL, C, Python(Django) and loading...
   </h3>
 
 <!---
