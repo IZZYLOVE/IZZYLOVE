@@ -10,7 +10,7 @@
 - 📫 reach me **+2348068578748 (izzylovu@gmail.com)...**
 
 <h3 align = 'center'> 
-  💞️ I’m looking to collaborate on any (web) development project involving HTML, CSS, JavaScript(ES6), Jquery, PHP(Laravel), Python(Django or Flask), Node(Express), MySQL, MongoDB, C, DevOps, Software testing, Cloud computing and loading..., 
+  💞️ I’m looking to collaborate on any (web) development project involving HTML, CSS, JavaScript(ES6), Jquery, PHP(Laravel), Python(Django or Flask), Node(Express), MySQL, MongoDB, C, DevOps, Software testing(BDD and TDD), Cloud computing and loading..., 
   or in areas relating to database management and/or project management
   </h3>
 
