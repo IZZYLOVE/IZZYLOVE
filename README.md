@@ -2,8 +2,8 @@
 
 <h1 align = 'center'> 👋 Hi, I’m KINGDOM ADELE </h1>
 
-- 🏘  I am a gradguate of mechanical enginnering, RSU.
-- 👀 Now a professional software engineer.
+- 🏘  I am a professional software engineer.
+- 👀 Alsoa gradguate of mechanical enginnering, RSU.
 - 🌱 I’m currently majoring in fullstack web development, database management and project management.
 - 🏘 i am certified by IBM, ALX, META, GOOGLE, NIIT, MRsoft, ADMAS, ...
 - 🌱 i am also a bank of experience in web development, with over six years experience.
