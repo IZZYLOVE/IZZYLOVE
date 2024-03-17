@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 <img src="assets/coding.gif" alt="My coding image" width="100%" max-height="400px">
 <div style="display: flex;">
     <div style="width: 49%;">
-        <img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" style="width: 100%; max-height: 400px; aspect-ratio: 1; max-height: 400px; ">
+        <img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" style="width: 100%; max-height: 400px; aspect-ratio: 1; ">
     </div>
     <div style="width: 49%;">
-        <img src="assets/7HVbXhchEJReH91gHr.webp" alt="Project management" style="width: 100%; max-height: 400px; aspect-ratio: 1; max-height: 400px; ">
+        <img src="assets/7HVbXhchEJReH91gHr.webp" alt="Project management" style="width: 100%; max-height: 400px; aspect-ratio: 1; ">
     </div>
 </div>
 
