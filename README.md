@@ -4,7 +4,7 @@
 
 - 🏘  I am a professional software engineer.
 - 👀 Also a gradguate of mechanical enginnering, RSU.
-- 🌱 I’m currently majoring in fullstack web development, database management and project management.
+- 🌱 I’m currently majoring in fullstack web development and testing, DevOps/DevSecOps, database management and project management.
 - 🏘 i am certified by IBM, ALX, META, GOOGLE, NIIT, MRsoft, ADMAS, ...
 - 🌱 i am also a bank of experience in web development, with over six years experience.
 - 📫 reach me **+2348068578748 (izzylovu@gmail.com)...**
