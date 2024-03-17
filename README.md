@@ -19,6 +19,6 @@ IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="assets/coding.gif" alt="My coding image" width="100%" max-height="400px">
-<img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" width="100%" max-height="400px">
-<img src="assets/7HVbXhchEJReH91gHr.webp" alt="Project management" width="100%" max-height="400px">
+<img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" width="49.4%" max-height="400px">
+<img src="assets/7HVbXhchEJReH91gHr.webp" alt="Project management" width="49.4%" max-height="400px">
 
