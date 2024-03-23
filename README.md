@@ -18,7 +18,7 @@
 IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
 --->
----html
+```html
 <img src="assets/coding.gif" alt="My coding image" width="100%" max-height="400px">
 <div style="display: flex; justify-content: space-between; flex-basis: 300px; flex-wrap: wrap-reverse; gap:5px; ">
       <img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" style=" width: 49%;  aspect-ratio: 1;  ">
