@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex; justify-content: space-between; flex-basis: 250px; gap:5px; ">
 <img src="assets/coding.gif" alt="My coding image" width="100%">
   <div style="flex-grow:1;">
-    <img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" style="width: 100%; aspect-ratio: 1;">
+    <img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" width="100%" style="aspect-ratio: 1;">
   </div>
   <div style="flex-grow:1;">
-    <img src="assets/7HVbXhchEJReH91gHr.webp" alt="Project management" style="width: 100%; aspect-ratio: 1;">
+    <img src="assets/7HVbXhchEJReH91gHr.webp" alt="Project management" width="100%" style="aspect-ratio: 1;">
   </div>
 </div>
 
