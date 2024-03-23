@@ -19,7 +19,7 @@ IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes. 
 --->
 
-<img src="assets/coding.gif" alt="My coding image" width="100%" max-height="400px">
+<img src="assets/coding.gif" alt="My coding image" style="width:100%; aspect-ratio: 16/9;">
 <div style="display: flex; justify-content: space-between; flex-basis: 250px; gap:5px; ">
   <div style="flex-grow:1;">
     <img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" style="width: 100%; aspect-ratio: 1;">
