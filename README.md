@@ -19,7 +19,7 @@ IZZYLOVE/IZZYLOVE is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes. 
 --->
 
-<div style="display: flex; justify-content: space-between; flex-basis: 250px; gap:5px; ">
+<div style="display: flex; justify-content: space-between; flex-basis: 250px; gap:5px;">
     <img src="assets/coding.gif" alt="My coding image" width="100%">
     <img src="assets/Screenshot 2024-01-11 114201.png" alt="ER Diagram" width="49%" height="100%">
     <img src="assets/7HVbXhchEJReH91gHr.webp" alt="Project management" width="49%" height="100%">
